@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"f",
+				"fillRect"
+			],
+			[
+				"F",
+				"fillRect"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"p",
+				"pincel"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"li",
+				"lineTo"
+			],
+			[
+				"fu",
+				"funcao"
+			],
+			[
+				"se",
+				"segredos"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"s",
+				"querySelector"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"nume",
+				"numeroPensado"
+			],
+			[
+				"nu",
+				"numeroPensado"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"pr",
+				"prompt"
+			],
+			[
+				"num",
+				"numeroMebros"
+			],
+			[
+				"n",
+				"numeroMebros"
+			],
+			[
+				"media",
+				"mediaIdades"
+			],
+			[
+				"idade",
+				"idadeMebros"
+			],
+			[
+				"qn",
+				"quantidadePessoas"
+			],
+			[
+				"quan",
+				"quantidadePessoas"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "@char",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Windows",
+				"name": "@char"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "htm",
+		"selected_items":
+		[
+			[
+				"htm",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Wagne_000/Desktop/Curso de HTML/projeto-glass-html5/_css/estilo.css",
+		"/C/Users/Wagne_000/Desktop/Curso de HTML/projeto-glass-html5/testeIndes-txt.html",
+		"/C/Users/Wagne_000/Desktop/Curso de HTML/projeto-glass-html5/index.html",
+		"/C/Users/Wagne_000/Desktop/Curso de HTML/projeto-glass-html5/index2.html",
+		"/C/Users/Wagne_000/Desktop/Curso de HTML/ola_mundo.html",
+		"/C/Users/Wagne_000/Desktop/login.html",
+		"/C/Users/Wagne_000/Desktop/Logica/adivinha_mias.html",
+		"/C/Users/Wagne_000/Desktop/Logica/adivinha.html",
+		"/C/Users/Wagne_000/Desktop/Logica/tentando.html",
+		"/C/Users/Wagne_000/Desktop/Logica/logica de programação/adivinha_mais.html",
+		"/C/Users/Wagne_000/Desktop/Logica/quadrados.html",
+		"/C/Users/Wagne_000/Desktop/Logica/programacao_2.html",
+		"/C/Users/Wagne_000/Desktop/Logica/programacao.html",
+		"/C/Users/Wagne_000/Desktop/Logica/esquadro.html",
+		"/C/Users/Wagne_000/Desktop/Logica/adivinha_mais.html",
+		"/C/Users/Wagne_000/Desktop/Logica/jogo_adivinha.html",
+		"/C/Users/Wagne_000/Desktop/Logica/Repetecao.html",
+		"/C/Users/Wagne_000/Desktop/Logica/relembrando_2.html",
+		"/C/Users/Wagne_000/Desktop/Logica/relembrando.html",
+		"/C/Users/Wagne_000/Desktop/Logica/Prova.html",
+		"/C/Users/Wagne_000/Desktop/Logica/Primeiro_teste.html",
+		"/C/Users/Wagne_000/Desktop/Logica/pegadinha.html",
+		"/C/Users/Wagne_000/Desktop/logica_2/total_idades.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@char",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "estilo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
